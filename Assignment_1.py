@@ -66,6 +66,6 @@ print("a.\n",color)
 
 #5b. Remove ‘Black’ and ‘Pink’ from the list and replace them with ‘Purple’.Do that in one line code.
 color=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-color[3:5]=["Purple"]
+color[3:5]="Purple"
 print("\nb.\n",color)
 
